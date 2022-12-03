@@ -1,1 +1,1 @@
-an optional project concerning virtual box and vagrant
+an optional project concerning vagrant and virtual box
